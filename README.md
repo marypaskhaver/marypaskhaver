@@ -9,20 +9,10 @@ Want to collaborate on anything iOS or web related? Contact me at mary.paskhaver
 \
 \
 Fun facts: 
-- I can juggle. 🤹
-- I love history! I won the 2019 New Jersey History Day Contest in the paper category.
-
-<!--
-**marypaskhaver/marypaskhaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I can juggle. 🤹  
+- I love history! I won the 2019 New Jersey History Day Contest in the paper category.  
+    
+  
+   
+\
+Want to learn more about me? Check out my [personal website](https://marypaskhaver.github.io/).
