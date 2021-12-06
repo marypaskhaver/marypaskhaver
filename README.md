@@ -2,7 +2,7 @@
 
 I'm a freshman at Rutgers with published iOS apps and experience in web development, and I'm fascinated with synthesizing tech and the humanities to promote positive change.
 
-I'm currently studying object-oriented programming and unit testing with Sandi Metz's _99 Bottles of OOP_, writing short stories, and dreaming up new mobile app ideas. 
+I'm currently studying React Native, writing short stories, and dreaming up new mobile app ideas. 
 
 Want to collaborate on anything iOS or web related? Contact me at mary.paskhaver@gmail.com.
 \
