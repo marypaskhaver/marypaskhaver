@@ -17,6 +17,3 @@ Want to collaborate on anything iOS or web related? Contact me at mary.paskhaver
 Fun facts:<br> 
 - I can juggle. 🤹<br> 
 - I love history!  
-<br><br>
-Want to learn more about me? Check out my [personal website](https://marypaskhaver.github.io/).
-<br>
