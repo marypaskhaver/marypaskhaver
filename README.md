@@ -1,6 +1,6 @@
 ### Hello! I'm Mary.
 
-I'm a sophomore at Rutgers with three published apps and experience in web development, and I'm fascinated with synthesizing tech and the humanities to promote positive change.
+I'm a sophomore at Rutgers with three published apps and experience in web development.
 
 I'm currently studying React Native, writing short stories, and dreaming up new mobile app ideas.
 
@@ -16,4 +16,6 @@ Want to collaborate on anything mobile or web related? Contact me at mary.paskha
 <br>
 Fun facts:<br> 
 - I can juggle. 🤹<br> 
-- I love history!  
+- I love history!<br><br>
+
+P.S. Check out [my Medium blog](https://medium.com/@mary.paskhaver) for tips on React Native and more!
