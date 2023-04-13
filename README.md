@@ -6,7 +6,7 @@ If you want to learn more about me, check out my [personal website](https://mary
 
 <br>
 Fun facts:<br> 
-- I can juggle. 🤹<br> 
-- I love history!<br><br><br>
+- I can juggle 🤹<br> 
+- I like history<br><br><br>
 
 P.S. Check out [my Medium blog](https://medium.com/@mary.paskhaver) for tips on React Native and more!
