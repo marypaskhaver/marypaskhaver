@@ -1,6 +1,6 @@
 **Hello! I'm Mary.**
 
-I'm a senior at Rutgers with experience in mobile and web development.<br>
+I'm a software engineer with experience in mobile and web development.<br>
    
 If you want to learn more about me, check out my [personal website](https://marypaskhaver.github.io/).
 
